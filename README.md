@@ -1,4 +1,4 @@
-# *flutter_customs*
+![](https://raw.githubusercontent.com/Alrehila/flutter_customs_community/main/flutter_customs.png)
 
 [![pub package](https://img.shields.io/pub/v/flutter_customs.svg?label=flutter_customs&color=blue)](https://pub.dev/packages/flutter_customs)
 [![popularity](https://img.shields.io/pub/popularity/flutter_customs?logo=dart)](https://pub.dev/packages/flutter_customs/score)
@@ -8,6 +8,8 @@
 <a href="https://pub.dev/packages/flutter_customs" target="_blank">
   <img alt="Static Badge" src="https://i.imgur.com/aV6DDA7.png">
 </a>
+
+![](https://raw.githubusercontent.com/Alrehila/flutter_customs_community/main/flutter_customs.png)
 
 ## Custom Wedgits For Flutter
 
